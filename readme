@@ -1,0 +1,14 @@
+Time of program compilation:
+1 object - 0,00000020
+15 objects - 0.0000134
+50 objects - 0.0003892
+500 objects - 0.0710927
+10000 objects - 0.2013829
+
+Number of input test files: 5
+Number of output test files: 10
+
+Number of files: 8
+Number of .asm files: 5
+
+Number of code strokes: 1270
